@@ -15,7 +15,7 @@ The dataset is available on [Kaggle](https://www.kaggle.com/c/titanic/data?selec
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/titanic-classification.git
+https://github.com/Debolina10Chatterjee/BHARAT_DS_02.git
 ```
 
 2. Open and run the "titanic_classification.ipynb" notebook in Colab Notebook to execute the Python code cells and train the predictive model.
